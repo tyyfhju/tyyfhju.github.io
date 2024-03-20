@@ -73,15 +73,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://tridiamond.tech/links/index.html</loc>
-    
-    <lastmod>2024-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://tridiamond.tech/</loc>
@@ -106,14 +97,14 @@
   </url>
   
   <url>
-    <loc>https://tridiamond.tech/tags/spring-boot/</loc>
+    <loc>https://tridiamond.tech/tags/vue/</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tridiamond.tech/tags/vue/</loc>
+    <loc>https://tridiamond.tech/tags/spring-boot/</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
