@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>hexo部署到服务器的踩坑</title>
+      <link href="//post/hexo%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%B8%A9%E5%9D%91.html"/>
+      <url>//post/hexo%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%B8%A9%E5%9D%91.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 运维 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>spring boot的使用</title>
       <link href="//post/spring%20boot%E7%9A%84%E4%BD%BF%E7%94%A8.html"/>
       <url>//post/spring%20boot%E7%9A%84%E4%BD%BF%E7%94%A8.html</url>
